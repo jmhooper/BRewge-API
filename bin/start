@@ -1,0 +1,1 @@
+nohup nf --port 6060 start >> production.log &
